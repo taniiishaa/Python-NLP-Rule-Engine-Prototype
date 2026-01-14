@@ -33,8 +33,8 @@ This project requires only a standard Python 3 installation.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_URL_HERE]
-    cd [YOUR_REPO_NAME]
+    git clone (https://github.com/taniiishaa/Python-NLP-Rule-Engine-Prototype)
+    cd Python-NLP-Rule-Engine-Prototype
     ```
 2.  **Execute the script:**
     ```bash
